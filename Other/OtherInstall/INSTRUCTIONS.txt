@@ -1,0 +1,10 @@
+First run the python msi file, DO NOT INSTALL FOR ALL USERS IF YOU ARE ASKED!
+Make sure that it works. (Run the GUI, run some commands, make a .py and run it)
+Run the pygame msi, DO NOT INSTALL FOR ALL USERS IF ASKED!
+Go into IDLE and run the command	import pygame
+Run the livewires batch file, I'll help you with this
+When you are done, go into IDLE and run the command 	from livewires import games
+
+Contact me if you have any errors at all, I will provide assistance
+
+When you have finished, come get me, I will help you learn livewires and pygame.

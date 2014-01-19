@@ -1,0 +1,7 @@
+This is a game of Galaga/Space Invaders.
+The game will begin automatically.
+The goal of the game is to destroy all the aliens.
+The aliens will fire back, if you are hit, the game is over.
+The left and right arrow keys will move your spaceship back and forth.
+The spacebar button will fire a missile from your ship.
+Your projectiles can hit the aliens projetiles, destroying both.

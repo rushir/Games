@@ -1,0 +1,89 @@
+Instructions for Parabolic Game Suite Games
+
+Recommended Screen Resolution: 1400x800
+
+To open menu system, double click the base.py file.
+
+Game Instructions:
+
+GALAXE
+The aliens have launched a massive atack on the planet earth! Use your spaceship to valiantly fight until the end. Destroy all aliens, but avoid getting shot.
+
+Controls for GALAXE
+Move left-Left arrow key
+Move right-Right arrow key
+Shoot-Spacebar
+
+FLITEPATH
+Survive as long as you can in an ever-shrinking canyon. Collect point bonuses and shield power-ups, but avoid the red obstacles.
+
+Controls for FLITEPATH
+Ascend-Spacebar
+Descend-Release spacebar
+
+TANKS
+This is the final straw. You and your rival must duke it out like true gentlemen (or ladies)... IN TANKS! Use the walls for cover, and be wary of the teleporters!
+
+Player One Controls for TANKS
+Move left-Left arrow key
+Move right-Right arrow key
+Move up-Up arrow key
+Move down-Down arrow key
+Shoot-Spacebar
+
+Player Two controls for TANKS
+Move left-A
+Move right-D
+Move up-W
+Move down-S
+Shoot-X
+
+PONG
+Keep the ball off the bottom of the screen for as long as you can!
+
+Controls for PONG
+Move left-Left arrow key
+Move right-right arrow key
+
+TURRETWARS
+The enemy has built up a fortress, right nest to yours! Punish them for their insolence! Control your turret and destroy the enemy before they destroy you!
+
+Player One Controls for TURRETWARS
+Rotate left-Left arrow key
+Rotate right-Right arrow key
+Increase power level-Up arrow key
+Decrease power level-Down arrow key
+Shoot-Spacebar
+
+Player Two Controls for TURRETWARS
+Rotate left-A
+Rotate right-D
+Increase power level-W
+Decrease power level-S
+Shoot-X
+
+BRIXX
+Destroy as many brixx as you can before your ball goes off the bottom of the screen. Be careful, the farther you go, the harder the brixx are to destroy.
+
+Controls for BRIXX
+Move left-Left arrow key
+Move right-Right arrow key
+
+GUNNER
+You're ship is stranded in space, helpless and alone. Fend off the incoming asteroids to survive as long as possible.
+
+Controls for GUNNER
+Rotate left-Left arrow key
+Rotate right-Right arrow key
+Shoot-Spacebar
+
+ULTIMATUM
+The negotiations for the alien planet are sure to fail. You have been sent on an undercover mission by the Earthen government. Your only goal, destroy the enemy planet. Fight through waves of enemies until the mission is done.
+
+Controls for ULTIMATUM
+Move left-Left arrow key
+Move right-Right arrow key
+Move forwards-Up arrow key
+Move backwards-Down arrow key
+Fire missiles-Spacebar
+Drop bomb-ALT
